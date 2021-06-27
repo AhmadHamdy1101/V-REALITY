@@ -1,0 +1,10 @@
+montserrat  [Blod 700] [semiBlod 600] [ExtraBlod 800] 
+
+font-family: 'Montserrat', sans-serif;
+
+openssans [Blod 700] [regular 400]
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Open+Sans:wght@400;700&display=swap');
+
+
+font-family: 'Open Sans', sans-serif;
